@@ -4,3 +4,6 @@
 [submodule "Musical-Time-Machine"]
 	path = Musical-Time-Machine
 	url = git@github.com:DanAdewole/Muscial-TIme-Machine.git
+[submodule "Drum-Kit"]
+	path = Drum-Kit
+	url = git@github.com:DanAdewole/Drum-Kit.git
