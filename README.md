@@ -11,3 +11,26 @@ A software that gathers information from the Bilboard website for the top 100 so
 
 ### Top Movie Listings
 A Flask application that lists top 10 movies of one's choice and the information about them.
+
+
+## How to Use
+1. Clone the repository:
+```
+git clone https://github.com/DanAdewole/Practice-Projects.git
+```
+
+2. Initialize and update the submodules:
+```
+git submodule init
+git submodule update
+```
+
+3. Navigate to the submodule directory you're interested in:
+```
+cd Drum-Kit
+```
+
+4. Follow the instructions in the submodule's README file for setup and usage.
+
+## Contributions
+I'm currently not accepting contributions to this repository, as it's intended for my personal play projects. However, you're welcome to fork the individual submodules and submit pull requests if you find any issues or have suggestions for improvements.
